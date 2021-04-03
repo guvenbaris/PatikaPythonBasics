@@ -1,3 +1,4 @@
+# Flatten Function
 flat_list = []
 def flatten_list(my_list):
     """
